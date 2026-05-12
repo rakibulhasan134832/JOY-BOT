@@ -1,5 +1,5 @@
 {
-    "author": "JOY",
+    "author": "Maruf",
     "autoRestart": true,
     "accpetPending": false,
     "developermode": false,
@@ -9,20 +9,20 @@
     "saveState": true,
     "banMsg": false,
     "adminOnlyMsg": false,
-    "BOTNAME": "Joy-bot",
+    "BOTNAME": "Pipip Bhum Bhum",
     "PREFIX": ".",
     "EMOJI": "🤬",
     "OPERATOR": [
-        "61555704213495",
-        "100000486903904"
+        "61588077851125",
+        "61588077851125"
     ],
     "ADMINBOT": [
-        "100000486903904",
-        "61555704213495",
-        "10007719"
+        "61588077851125",
+        "61588077851125"
+     ,   
     ],
     "OWNER": [
-        "100003661522127"
+        "100033261345400"
     ],
     "APPROVED": [],
     "disabledcmds": [],
