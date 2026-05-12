@@ -1,4 +1,4 @@
-name: JOY-BOT
+name: Pipip Bhum Bhum
 
 on:
   push:
@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: JOY-BOT
+      - name: Pipip Bhum Bhum
         run: npm start
